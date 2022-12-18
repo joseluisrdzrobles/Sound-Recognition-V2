@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(15, 15, 15);
+    padding: 0px;
+}
+
+h1, p, h2 {
+    font-family: 'Noto Sans', sans-serif;
+    color: white;
+}
+
+h1 {
+    font-size:55px;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+h2 {
+    font-family: 'Rammetto One', cursive;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Grandstander', cursive;
+}
+
+button {
+    width: 120px;
+    height: 40px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 15px;
+}
